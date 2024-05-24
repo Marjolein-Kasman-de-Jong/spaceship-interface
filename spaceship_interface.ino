@@ -22,6 +22,7 @@ void loop() {
     digitalWrite(4, LOW);
     digitalWrite(5, LOW);
   }
+    
   // If switch is pressed
   else {
     // Turn green LED off 
